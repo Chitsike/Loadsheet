@@ -1,6 +1,6 @@
-START CFP REF:FJW31H__WEB30944_AFP.txt
+START CFP REF:FJW8331__WEB30944_AFP.txt
 ============================= FASTJET ZIMBABWE LTD ===========================
-FJW31H   FVRG-FAOR   11MAR     M74       PERF -6.0%  EMB-145/AE3007A1    ZFJH
+FJW8331   FVRG-FAOR   11MAR     M74       PERF -6.0%  EMB-145/AE3007A1    ZFJH
 COMP 1809Z           WX1106    W/C M7    SCHED 0410Z/01.45/0555Z     BAY _____
 ==============================================================================
 CMND:___________ F/O:___________ SCCM:__________ CCM:_________ POB:___C/___PAX
@@ -42,7 +42,7 @@ CHOCKS  0145 _____ AIR   _____ BLOCK =______
 
 
 DISPATCH SIGN .................                 CAPTAIN SIGN .................
-                                                             G KACHAMBWA
+                                                             T CHITSIKE 
 ==============================================================================
 FRQ    MTR    AWY  DIST  ZTM  CTM  MACH P/FL GMOR  TAS FTMP FWIND  AFOB
 POSN   LAT     LONG      ETA RETA  ATA  A/FL FF/E  G/S ISAD AWIND  F.DEST RESV
@@ -207,6 +207,6 @@ FBSK   S2433.4 E02555.1  ____ ____ ____                               0 = ____
 -FAOR0131 FALA FALE
 -DOF/220311 REG/ZFJH OPR/FASTJET ZIMBABWE +263 8677006062  
  PBN/B2/B3/B4/C2/C3/D2/D3/S1 EET/FAJA0046 RMK/SARNML
--E/0223 P/TBN R/E S/MJ J/LF A/WHITE N/FAKS C/G KACHAMBWA)
+-E/0223 P/TBN R/E S/MJ J/LF A/WHITE N/FAKS C/T CHITSIKE)
 
 END CFP REF:  FJW31H__WEB30944_AFP.txt                        0.21        <23>
