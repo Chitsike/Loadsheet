@@ -81,7 +81,8 @@ MINIMUM DIVERSION FUEL FIG: TOTAL .......... EITHER TANK ..........
  
 LWT ____________ -->        Vfs     _____
  
-                            Vref    _____  -->  Vref + ½ HW comp + Gust comp  
+                            Vref    _____  -->  Vref + ½ HW comp + Gust comp 
+ 
                             Vapp clm_____                     |
  
                             Vapp    _____                  <--
