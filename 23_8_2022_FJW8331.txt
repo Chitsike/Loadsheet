@@ -1,6 +1,6 @@
 START CFP REF:FJW8331__WEB30944_AFP.txt
 ============================= FASTJET ZIMBABWE LTD ===========================
-FJW8331   FVRG-FAOR   11MAR     M74       PERF -6.0%  EMB-145/AE3007A1    ZFJH
+FJW8331   FVRG-FAOR   23AUG     M74       PERF -6.0%  EMB-145/AE3007A1    ZFJH
 COMP 1809Z           WX1106    W/C M7    SCHED 0410Z/01.45/0555Z     BAY _____
 ==============================================================================
 CMND:___________ F/O:___________ SCCM:__________ CCM:_________ POB:___C/___PAX
