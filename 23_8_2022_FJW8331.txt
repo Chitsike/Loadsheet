@@ -42,7 +42,7 @@ CHOCKS  0145 _____ AIR   _____ BLOCK =______
 
 
 DISPATCH SIGN .................                 CAPTAIN SIGN .................
-                                                             T CHITSIKE 
+                                                             J MPARURI 
 ==============================================================================
 FRQ    MTR    AWY  DIST  ZTM  CTM  MACH P/FL GMOR  TAS FTMP FWIND  AFOB
 POSN   LAT     LONG      ETA RETA  ATA  A/FL FF/E  G/S ISAD AWIND  F.DEST RESV
